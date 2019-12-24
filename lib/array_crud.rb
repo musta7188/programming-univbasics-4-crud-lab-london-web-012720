@@ -70,4 +70,8 @@ end
 
 def update_element_from_index(array, index_number, element)
 
+  update_element = array[index_number] = element
+
+  update_element
+
 end
