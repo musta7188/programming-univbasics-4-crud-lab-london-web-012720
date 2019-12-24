@@ -54,6 +54,10 @@ end
 
 def retrieve_first_element_from_array(array)
 
+  return_first_element = array[0]
+
+  return_first_element
+
 end
 
 def retrieve_last_element_from_array(array)
